@@ -1,0 +1,13 @@
+for(int k=0; k<5; k++)
+        {
+            for(int l=k+1; l<6; l++)
+            {
+                int tmp;
+                if(hscore[k]<hscore[l])
+                {
+                    tmp=hscore[k];
+                    hscore[k]=hscore[l];
+                    hscore[l]=tmp;
+                }
+            }
+        }

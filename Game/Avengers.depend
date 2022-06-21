@@ -1,0 +1,258 @@
+# depslib dependency file v1.0
+1530983691 source:f:\project\avengers\endgame.cpp
+	"iGraphics.h"
+
+1493810122 f:\project\avengers\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532012102 source:f:\project\avengers - copy\endgame.cpp
+	"iGraphics.h"
+
+1493810122 f:\project\avengers - copy\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532034593 source:f:\project\guli laglo shotru morlo\endgame.cpp
+	"iGraphics.h"
+	<stdlib.h>
+	<string.h>
+
+1493810122 f:\project\guli laglo shotru morlo\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532036382 source:f:\project\score+health count\endgame.cpp
+	"iGraphics.h"
+	<stdlib.h>
+	<string.h>
+
+1493810122 f:\project\score+health count\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532063627 source:f:\project 2.0\healthbar fixed\endgame.cpp
+	"iGraphics.h"
+	<stdlib.h>
+	<string.h>
+
+1493810122 f:\project 2.0\healthbar fixed\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532070489 source:f:\project 2.0\healthbar fixed - copy\endgame.cpp
+	"iGraphics.h"
+	<stdlib.h>
+	<string.h>
+
+1493810122 f:\project 2.0\healthbar fixed - copy\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532073436 source:f:\project 2.0\update 20.7\endgame.cpp
+	"iGraphics.h"
+	<stdlib.h>
+	<string.h>
+
+1493810122 f:\project 2.0\update 20.7\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532073732 source:f:\project 2.0\menu created\endgame.cpp
+	"iGraphics.h"
+	<stdlib.h>
+	<string.h>
+
+1493810122 f:\project 2.0\menu created\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532094273 source:f:\project 2.0\game over completed\endgame.cpp
+	"iGraphics.h"
+	<stdlib.h>
+	<string.h>
+
+1493810122 f:\project 2.0\game over completed\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532537685 source:f:\project 2.0\game over completed - last update\endgame.cpp
+	"iGraphics.h"
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1493810122 f:\project 2.0\game over completed - last update\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532616114 source:f:\project 2.0\boss complete\endgame.cpp
+	"iGraphics.h"
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1493810122 f:\project 2.0\boss complete\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532775487 source:f:\project 2.0\level complete\endgame.cpp
+	"iGraphics.h"
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1493810122 f:\project 2.0\level complete\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532781768 source:i:\level complete\endgame.cpp
+	"iGraphics.h"
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1493810124 i:\level complete\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532784017 source:c:\users\rasman swargo\desktop\level complete\endgame.cpp
+	"iGraphics.h"
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1493810124 c:\users\rasman swargo\desktop\level complete\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532784018 source:i:\level complete2\endgame.cpp
+	"iGraphics.h"
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1493810124 i:\level complete2\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532806181 source:c:\users\rasman swargo\desktop\level complete2\endgame.cpp
+	"iGraphics.h"
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1493810124 c:\users\rasman swargo\desktop\level complete2\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532806181 source:c:\users\user\desktop\igraphics\new folder\final project\endgame.cpp
+	"iGraphics.h"
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1493810124 c:\users\user\desktop\igraphics\new folder\final project\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532806181 source:e:\1-1\what i've done\term project cse\endgame.cpp
+	"iGraphics.h"
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1493810124 e:\1-1\what i've done\term project cse\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
